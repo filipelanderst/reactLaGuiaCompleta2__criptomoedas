@@ -20,7 +20,7 @@ const Imagen = styled.img`
   display: block;
   width: 150px;
   @media (max-width: 500px) {
-    margin-left: 16%;
+    margin-left: 20%;
   }
 `;
 
