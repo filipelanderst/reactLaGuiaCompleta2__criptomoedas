@@ -1,6 +1,4 @@
-# reactLaGuiaCompleta2.criptomoedas
-
-# reactLaGuiaCompleta1__risus
+# reactLaGuiaCompleta2__criptomoedas
 
 Projeto feito no curso de __React - La Guía Completa: Hooks Context Redux MERN +15 Apps__ do professor __Juan Pablo de La Torre Valdez__.
 
