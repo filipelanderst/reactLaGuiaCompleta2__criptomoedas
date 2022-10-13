@@ -45,5 +45,5 @@ __Link da página:__ [https://crypto-blond-delta.vercel.app/](https://crypto-blo
 ![Captura de tela](https://raw.githubusercontent.com/flx-lander7/reactLaGuiaCompleta2.criptomoedas/main/src/img/Screenshot(Desktop).png)
 
 
-## Captura de Tela (mobile)
+## Captura de Tela (Mobile)
 ![Captura de tela](https://raw.githubusercontent.com/flx-lander7/reactLaGuiaCompleta2.criptomoedas/main/src/img/Screenshot(Mobile).png)
